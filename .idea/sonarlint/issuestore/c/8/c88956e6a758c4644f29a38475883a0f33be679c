@@ -1,0 +1,17 @@
+
+u
+java:S3776ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(»Ä©Œıÿÿÿÿ8ËÜüÿ©.
+c
+java:S1192´"GDefine a constant instead of duplicating this literal "finish" 3 times.(«ÑşÁşÿÿÿÿ
+M
+java:S1066î"/Merge this if statement with the enclosing one.(¥›š÷8ËÜüÿ©.
+j
+java:S1192ğ"GDefine a constant instead of duplicating this literal "seller" 9 times.(ê‘ÖŠıÿÿÿÿ8ËÜüÿ©.
+u
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(„Œ§ÿşÿÿÿÿ8ÅÀÏØ­.
+n
+java:S1192V"QDefine a constant instead of duplicating this literal "info(\\s.*|\\s*)" 3 times.(µªÔƒ8ËÜüÿ©.
+i
+java:S1192ˆ"FDefine a constant instead of duplicating this literal "chest" 3 times.(–àÉúÿÿÿÿ8ÅÀÏØ­.
+p
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œãş„8ÅÀÏØ­.

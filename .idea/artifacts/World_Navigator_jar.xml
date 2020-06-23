@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="World Navigator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/World_Navigator_jar</output-path>
+    <root id="archive" name="World Navigator.jar">
+      <element id="module-output" name="World Navigator" />
+    </root>
+  </artifact>
+</component>

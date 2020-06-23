@@ -1,0 +1,52 @@
+10 6
+2
+gold -1 0
+greenKey 1 1
+1 darkWithSwitch
+1 door 1 lockedWithKey redKey 3
+1 door 1 unlocked
+1 chest 2 container 1 gold -1 2 unlocked
+0
+1 litWithSwitch
+1 door 1 unlocked
+0
+1 mirror 1 container 1 flashlight 1 1
+1 door 1 unlocked
+1 litWithSwitch
+1 painting 1 container 1 yellowKey 1 1
+1 door 1 lockedWithKey yellowKey 1
+1 door 1 unlocked
+0
+1 darkWithSwitch
+0
+1 seller 2 trader container 1 redKey 3 1
+0
+1 door 1 lockedWithKey yellowKey 1
+1 darkWithNoSwitch
+1 door 1 lockedWithKey greenKey 1
+0
+1 door 1 lockedWithKey redKey 3
+0
+1 litWithSwitch
+1 door 1 lockedWithKey goldKey 10
+0
+1 door 1 lockedWithKey greenKey 1
+1 seller 2 trader container 1 goldKey 10 1
+2
+4 0
+1 1
+2
+2 0
+0 3
+2
+3 1
+1 2
+1
+2 3
+2
+5 0
+0 2
+2
+6 0
+4 2
+2 0
